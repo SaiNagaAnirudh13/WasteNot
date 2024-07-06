@@ -1,4 +1,4 @@
-🌟 WasteNot 🌟
+🌟 WasteNot 🌟 [https://66898ae73756a8f3fb160fac--resilient-selkie-eab8a6.netlify.app/]
 
 WasteNot is a vibrant and user-friendly web application designed to help reduce food waste by connecting donors with individuals or organizations in need. Our mission is to ensure that surplus food reaches those who need it most, fostering a community of sharing and sustainability.
 
@@ -40,7 +40,7 @@ Browse available food listings and connect with donors.
 
 ---Clone the repository:
 
-git clone https://github.com/yourusername/wastenot.git
+git clone [https://github.com/yourusername/wastenot.git](https://github.com/SaiNagaAnirudh13/WasteNot/tree/main)
 cd wastenot
 
 Open the project:
